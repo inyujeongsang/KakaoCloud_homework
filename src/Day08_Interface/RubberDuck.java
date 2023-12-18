@@ -2,7 +2,7 @@ package Day08_Interface;
 
 import java.awt.*;
 
-public class RubberDuck extends Duck implements Flyable,Quackable{
+public class RubberDuck extends Duck implements Quackable{
 
 
     public RubberDuck(int x, int y, int size, int index){
@@ -17,8 +17,6 @@ public class RubberDuck extends Duck implements Flyable,Quackable{
         quack(g);
     }
 
-    @Override
-    public void fly(Graphics g) {;}//러버덕은 날지 못함.
 
     @Override
     public void quack(Graphics g) {
