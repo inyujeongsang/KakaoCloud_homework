@@ -31,7 +31,7 @@ public class Horse extends Canvas implements Runnable{
 
     public void rank(Graphics g){
         g.setColor(Color.BLACK);
-        g.drawString((rank++)+"등",x-20,y-1);
+        g.drawString((rank++)+"등",x-20,y-2);
     }
 
     @Override

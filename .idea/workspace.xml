@@ -73,7 +73,7 @@
       <option name="presentableId" value="Default" />
       <updated>1702739825296</updated>
       <workItem from="1702739826383" duration="1213000" />
-      <workItem from="1702779024878" duration="20501000" />
+      <workItem from="1702779024878" duration="21300000" />
     </task>
     <task id="LOCAL-00001" summary="자바 상속,오버라이딩,인터페이스 일주일치 과제">
       <created>1702739965306</created>
@@ -96,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702995089778</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="자바 스레드/경마게임 과제">
+      <created>1703086427660</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1703086427660</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,17 +136,7 @@
     <MESSAGE value="자바 상속,오버라이딩,인터페이스 일주일치 과제" />
     <MESSAGE value="자바 싱글톤패턴, 업캐스팅, 다운캐스팅" />
     <MESSAGE value="자바 제네릭" />
-    <option name="LAST_COMMIT_MESSAGE" value="자바 제네릭" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Day11_HorseGame/Horse.java</url>
-          <line>32</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="자바 스레드/경마게임 과제" />
+    <option name="LAST_COMMIT_MESSAGE" value="자바 스레드/경마게임 과제" />
   </component>
 </project>
