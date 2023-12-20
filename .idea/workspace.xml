@@ -73,7 +73,7 @@
       <option name="presentableId" value="Default" />
       <updated>1702739825296</updated>
       <workItem from="1702739826383" duration="1213000" />
-      <workItem from="1702779024878" duration="21300000" />
+      <workItem from="1702779024878" duration="21670000" />
     </task>
     <task id="LOCAL-00001" summary="자바 상속,오버라이딩,인터페이스 일주일치 과제">
       <created>1702739965306</created>
@@ -103,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1703086427660</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="자바 스레드/경마게임 과제/깃잔디 확인">
+      <created>1703087136826</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1703087136826</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,6 +144,7 @@
     <MESSAGE value="자바 싱글톤패턴, 업캐스팅, 다운캐스팅" />
     <MESSAGE value="자바 제네릭" />
     <MESSAGE value="자바 스레드/경마게임 과제" />
-    <option name="LAST_COMMIT_MESSAGE" value="자바 스레드/경마게임 과제" />
+    <MESSAGE value="자바 스레드/경마게임 과제/깃잔디 확인" />
+    <option name="LAST_COMMIT_MESSAGE" value="자바 스레드/경마게임 과제/깃잔디 확인" />
   </component>
 </project>
