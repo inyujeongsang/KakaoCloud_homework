@@ -40,7 +40,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/hotay/OneDrive/바탕 화면/KakaoCloud_homework/src",
+    "last_opened_file_path": "C:/Users/hotay/OneDrive/바탕 화면/KakaoCloud_homework",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -73,7 +73,9 @@
       <option name="presentableId" value="Default" />
       <updated>1702739825296</updated>
       <workItem from="1702739826383" duration="1213000" />
-      <workItem from="1702779024878" duration="21670000" />
+      <workItem from="1702779024878" duration="31131000" />
+      <workItem from="1703752917034" duration="469000" />
+      <workItem from="1703832401876" duration="251000" />
     </task>
     <task id="LOCAL-00001" summary="자바 상속,오버라이딩,인터페이스 일주일치 과제">
       <created>1702739965306</created>
@@ -110,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1703087136826</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="자바 스레드/경마게임 과제/깃잔디 확인">
+      <created>1703087606454</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1703087606454</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
